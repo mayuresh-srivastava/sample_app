@@ -232,7 +232,7 @@ GEM
       rails (>= 2.3.3)
     mini_magick (4.9.5)
     mini_mime (1.0.2)
-    mini_portile2 (2.5.0)
+    mini_portile2 (2.5.1)
     minitest (5.14.3)
     minitest-reporters (1.0.5)
       ansi
@@ -242,7 +242,7 @@ GEM
     multi_json (1.13.1)
     nenv (0.3.0)
     nio4r (2.5.7)
-    nokogiri (1.11.1)
+    nokogiri (1.11.4)
       mini_portile2 (~> 2.5.0)
       racc (~> 1.4)
     notiffany (0.1.3)
